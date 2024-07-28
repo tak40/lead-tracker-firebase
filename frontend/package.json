@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s06c62n",
+  "name": "scrim-s06c62n",
   "description": "https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0yqf",
   "scripts": {
     "start": "vite",
@@ -8,7 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^10.12.4",
     "vite": "latest"
   },
-  "devDependencies": {}
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
